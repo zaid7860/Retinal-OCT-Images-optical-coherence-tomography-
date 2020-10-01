@@ -4,3 +4,6 @@
 
 ![title](https://i.imgur.com/fSTeZMd.png)
 
+# Problem Statement 
+ *  False Negative , is the biggest constraint for any medical based ML & DL based problems, we need to minimize this.
+ *  Latancy is not the problem as tradition approches takes weeks.
